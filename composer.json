@@ -2,6 +2,7 @@
     "name": "rober/import-from-imdb",
     "description": "PHP library to import IMDB CSV exports",
     "license": "MIT",
+    "type": "library",
     "autoload": {
         "psr-4": {
             "Rober\\ImportFromIMDB\\": "src/"
