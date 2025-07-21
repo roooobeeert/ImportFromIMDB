@@ -1,0 +1,17 @@
+{
+    "name": "rober/import-from-imdb",
+    "description": "PHP library to import IMDB CSV exports",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rober\\ImportFromIMDB\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "figlrobe",
+            "email": "robert.figl@uni-a.de"
+        }
+    ],
+    "require": {}
+}
